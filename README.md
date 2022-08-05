@@ -5,5 +5,4 @@
 - 🌱 atualmente estou aprendendo HTML porém aprenderei mais linguagens futuramente 
 - 💞️ atualmente não estou interessado em trabalhar com outras pessoas porém sempre estarei disposto a aceitar dicas para melhorar meus projetos 
 - :+1: o meu email de contato é [email](kenzo.narita@escola.pr.gov.br)
-<!---
-ShinMaouPlus/ShinMaouPlus is a ✨ special 
+
